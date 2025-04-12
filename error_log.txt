@@ -1,0 +1,9 @@
+2025-04-09 21:40:28,732 - ERROR - G:\Udemy\Python\TestFolder\XMLTransform\RootDir\Message.xml - Error on line 5 column 15 of Message.xslt:
+  XTSE0010  Unknown XSLT instruction xsl:Copy
+Error on line 11 column 19 of Message.xslt:
+  XTSE0010  Unknown XSLT instruction xsl:Copy
+Error on line 5 column 15 of Message.xslt:
+  XTSE0010  Unknown XSLT instruction xsl:Copy
+Error on line 11 column 19 of Message.xslt:
+  XTSE0010  Unknown XSLT instruction xsl:Copy
+Errors were reported during stylesheet compilation

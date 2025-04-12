@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Message>
+    <Sender>Teacher</Sender>
+    <Recipient>Student</Recipient>
+    <Content>Hello, this is your grade</Content>
+</Message>
